@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from  Lakshimi D word!
+      Hello from  Lakshimi D world!
     </section>
   </body>
 </html>
